@@ -1,0 +1,11 @@
+
+http://badnotes.github.com/sitemap.txt
+http://badnotes.github.com/about.html
+http://badnotes.github.com/categories.html
+http://badnotes.github.com/pages.html
+http://badnotes.github.com/archive.html
+http://badnotes.github.com/tags.html
+http://badnotes.github.com/atom.xml
+http://badnotes.github.com/index.html
+
+http://badnotes.github.com/blog/2013/09/12/new-post

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>badnotes's Blog</title>
+ <link href="http://badnotes.github.com/atom.xml" rel="self"/>
+ <link href="http://badnotes.github.com"/>
+ <updated>2013-09-12T14:38:34+08:00</updated>
+ <id>http://badnotes.github.com</id>
+ <author>
+   <name>badnotes</name>
+   <email>whx10000@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello world</title>
+   <link href="http://badnotes.github.com/blog/2013/09/12/new-post"/>
+   <updated>2013-09-12T00:00:00+08:00</updated>
+   <id>http://badnotes.github.com/blog/2013/09/12/new-post</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ 
+</feed>
